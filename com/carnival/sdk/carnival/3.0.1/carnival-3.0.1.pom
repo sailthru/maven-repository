@@ -9,14 +9,14 @@
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
-      <artifactId>support-v4</artifactId>
-      <version>23.2.1</version>
+      <artifactId>multidex</artifactId>
+      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
-      <artifactId>multidex</artifactId>
-      <version>1.0.1</version>
+      <artifactId>support-v4</artifactId>
+      <version>23.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
