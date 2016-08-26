@@ -3,7 +3,7 @@
   <groupId>com.carnival.sdk</groupId>
   <artifactId>carnival</artifactId>
   <versioning>
-    <release>3.3.4</release>
+    <release>3.3.5</release>
     <versions>
       <version>2.0</version>
       <version>2.0.1</version>
@@ -48,7 +48,8 @@
       <version>3.3.2</version>
       <version>3.3.3</version>
       <version>3.3.4</version>
+      <version>3.3.5</version>
     </versions>
-    <lastUpdated>20160823051354</lastUpdated>
+    <lastUpdated>20160826060738</lastUpdated>
   </versioning>
 </metadata>
