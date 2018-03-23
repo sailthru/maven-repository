@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.carnival.sdk</groupId>
+  <artifactId>carnival</artifactId>
+  <version>5.3.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180323.031127</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180323031127</lastUpdated>
+  </versioning>
+</metadata>
