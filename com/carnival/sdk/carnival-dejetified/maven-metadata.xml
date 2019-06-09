@@ -3,12 +3,13 @@
   <groupId>com.carnival.sdk</groupId>
   <artifactId>carnival-dejetified</artifactId>
   <versioning>
-    <release>7.0.2</release>
+    <release>8.0.0</release>
     <versions>
       <version>7.0.0</version>
       <version>7.0.1</version>
       <version>7.0.2</version>
+      <version>8.0.0</version>
     </versions>
-    <lastUpdated>20190506043049</lastUpdated>
+    <lastUpdated>20190609233205</lastUpdated>
   </versioning>
 </metadata>
