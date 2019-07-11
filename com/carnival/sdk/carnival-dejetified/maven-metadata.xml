@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.carnival.sdk</groupId>
+  <artifactId>carnival-dejetified</artifactId>
+  <versioning>
+    <versions>
+      <version>8.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190711223832</lastUpdated>
+  </versioning>
+</metadata>
