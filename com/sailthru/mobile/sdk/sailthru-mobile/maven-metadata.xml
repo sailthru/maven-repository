@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sailthru.mobile.sdk</groupId>
+  <artifactId>sailthru-mobile</artifactId>
+  <versioning>
+    <versions>
+      <version>10.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200219215325</lastUpdated>
+  </versioning>
+</metadata>
