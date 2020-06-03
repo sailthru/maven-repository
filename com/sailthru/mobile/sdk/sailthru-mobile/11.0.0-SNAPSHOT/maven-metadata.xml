@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.sailthru.mobile.sdk</groupId>
+  <artifactId>sailthru-mobile</artifactId>
+  <version>11.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200603.035734</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200603035734</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>11.0.0-20200603.035734-1</value>
+        <updated>20200603035734</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.0.0-20200603.035734-1</value>
+        <updated>20200603035734</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
