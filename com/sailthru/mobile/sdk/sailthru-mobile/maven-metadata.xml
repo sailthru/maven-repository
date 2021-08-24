@@ -3,11 +3,12 @@
   <groupId>com.sailthru.mobile.sdk</groupId>
   <artifactId>sailthru-mobile</artifactId>
   <versioning>
-    <latest>11.0.0-SNAPSHOT</latest>
+    <latest>15.0.0-SNAPSHOT</latest>
     <versions>
       <version>10.1.0-SNAPSHOT</version>
       <version>11.0.0-SNAPSHOT</version>
+      <version>15.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200603035735</lastUpdated>
+    <lastUpdated>20210824050851</lastUpdated>
   </versioning>
 </metadata>
